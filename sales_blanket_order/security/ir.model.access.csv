@@ -1,5 +1,0 @@
-id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
-access_sale_blanket_order,sale_blanket_order,model_sale_blanket_order,,1,1,1,1
-access_sale_blanket_order_line,sale_blanket_order_line,model_sale_blanket_order_line,,1,1,1,1
-access_sale_blanket_order_wizard,sale_blanket_order_wizard,model_sale_blanket_order_wizard,,1,1,1,0
-access_sale_blanket_order_wizard_line,sale_blanket_order_wizard_line,model_sale_blanket_order_wizard_line,,1,1,1,0
